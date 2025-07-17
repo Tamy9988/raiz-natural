@@ -25,5 +25,5 @@ Este es un blog personal sobre salud, bienestar y belleza natural. Todos los art
 
 ## 📌 Créditos
 
-Creado por **Tamara Abigail Arancibia Fonceca**  
+Creado por **Mora Teo**  
 Diseño, estilo y contenido desarrollado con enfoque 100% natural 🌱
