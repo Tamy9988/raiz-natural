@@ -1,0 +1,1 @@
+Instrucciones: subí todo este contenido a GitHub Pages y el blog funcionará automáticamente. Para activar AdSense, pegá tu código en adsense.html
